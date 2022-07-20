@@ -1,260 +1,2102 @@
 [
-    {
-      "course":"Strategic Appli in Proj Management "
-    },
-     {
-        "course":"Legal, Ethical, & Social Environment"
-     },
-      {
-        "course":"Planning the Project "
-      },
-      {
-        "course":"Initiating the Project "
-      },
-      {
-        "course":"Organizational Behavior "
-      },
-      {
-        "course":"Project Management Processes"
-      },
-      {
-        "course":"Executing the Project "
-      },
-      {
-        "course":"Monitor/Con & Closing the Project"
-      },
-      {
-        "course":"Managerial Economics"
-      },
-      {
-        "course":"Managerial Finance"
-      },
-      {
-        "course":"Legal Reg, Compliance, Invest"
-      },
-
-      {
-      "course":"Operations Security"
-    },
-    {
-        "course":"Security Architecture & Design"
-      },
-      {
-        "course":"SPR_MAIN_Cryptography_24"
-      },
-      {
-        "course":"FALL_IG_Access Control_25"
-      },
-      {
-        "course":"IIG_Bus Cont Plan & Disaste Recovery Plan_24"
-      },
-
-      {
-        "course":"Application Security_25"
-      },
-      {
-        "course":"Operational Excellence"
-      },
-      {
-        "course":"Security and Risk Management._23"
-      },
-
-      {
-      "course":"Cloud Computing"
-    },
-    {
-        "course":"Bus Analy for Strateg & Org Pe "
-    },
-    {
-        "course":"Infer Stats in Decision-Making"
-      },
-      {
-        "course":"Project management"
-      },
-      {
-        "course":"Cyber Security"
-      },
-      {
-        "course":"Information system infrastructure"
-      },
-      {
-        "course":"Management Information systems"
-      },
-      {
-        "course":"Management Information systems- 2"
-      },
-      {
-        "course":"Disaster recovery"
-      },
-
-      {
-      "course":"Information system security"
-    },
-    {
-        "course":"Team management "
-      },
-      {
-        "course":"ITM-Capstone"
-      },
-      {
-        "course":"Cyber Law"
-      },
-      {
-        "course":"Current and emerging technology"
-      },
-      {
-        "course":"egotiation and Conflict Management"
-      },
-      {
-        "course":"Managing Diversity"
-      },
-      {
-        "course": "Managerial Decision Making"
-      },
-      {
-        "course": "Managerial Communications"
-      },
-      {
-        "course": "Big Data Analytics"
-      },
-      {
-        "course": "Software Engineering"
-      },
-      {
-        "course": "Advanced Database"
-      },
-
-      {
-        "course": "Software Engineering"
-      },
-      {
-        "course": "Organizational theory"
-      },
-
-      {
-        "course": "Business ethics"
-      },
-      {
-        "course": "Negotiation and conflict management"
-      },
-      {
-        "course": "Human resource management"
-      },
-      {
-        "course": "Marketing management"
-      },
-      {
-        "course": "Managerial Accounting(Hard)"
-      },
-
-      {
-        "course": "Managerial accounting"
-      },
-      {
-        "course": "Managerial Finance"
-      },
-      {
-        "course": "Managerial Economics"
-      },
-      {
-        "course": "Econ Analysis/Virtuous Ldrs"
-      },
-      {
-        "course": "Data Analytics & Research"
-      },
-      {
-        "course": "Vir Leadrship Global Based Teams"
-      },
-      {
-        "course": "Found of Doctoral Research"
-      },
-      {
-        "course": "Found of Graduate Business"
-      },
-      {
-        "course": "Residency 1: The DBA Journey "
-      },
-      {
-        "course":"Marketing Management"
-      },
-      {
-        "course":"Ethical/Legal Aspects of Mgmt"
-      },
-      {
-        "course":"Decision Mkg/Essent Bus Comm"
-      },
-      {
-        "course":"Found of Graduate Business"
-      },
-      {
-        "course":"Economic Analysis for Managers"
-      },
-      {
-        "course":"Project Management"
-      },
-      {
-        "course":"Ethics in Information Technology"
-      },
-      {
-        "course":"Business Technology Strategy"
-      },
-      {
-        "course":"Accounting for Leaders"
-      },
-
-      {
-        "course":"Cloud Computing"
-      },
-      {
-        "course":"Computer Security: Foundations"
-      },
-      {
-        "course":"Cybersecurity Planning & Mgmt"
-      },
-      {
-        "course":"Database Security"
-      },
-
-      {
-        "course":"Digital Forensics Tools & Technique"
-      },
-      {
-        "course":"Internship in Business Admin"
-      },
-      {
-        "course":"Leadership & Change in Org"
-      },
-      {
-        "course":"Managerial Finance"
-      },
-      {
-        "course":"Marketing Strategies"
-      },
-      {
-        "course":"Operational Planning & Policy"
-      },
-      {
-        "course":"Organizational Economics"
-      },
-
-      {
-        "course":"Policy, Legal, Ethics, & Cmplc"
-      },
-      {
-        "course":"Building Secure Web Applications"
-      },
-      {
-        "course":"Organizational Communications"
-      },
-      {
-        "course":"Graduate Research"
-      },{
-        "course":"Computer And Network Security "
-      },
-      {
-        "course":"International Business Management"
-      },
-      {
-        "course":"Disaster And Recover Planning"
-      }
+	{
+	"course":"KG-602 Ethics and Leadership: An Interdisciplinary Perspective"
+	},
+	{
+	"course":"MG-615 Managing in the Global Environment"
+	},
+	{
+	"course":"MG-620 Research and Statistics for Managerial Decision Making"
+	},
+	{
+	"course":"MG-630 Organizational Behavior and Leadership in the 21st Century"
+	},
+	{
+	"course":"MG-640 Managerial Economics"
+	},
+	{
+	"course":"MG-660 Strategic Marketing"
+	},
+	{
+	"course":"MG-670 Managerial Finance"
+	},
+	{
+	"course":"MG-770 Financial Statement Analysis"
+	},
+	{
+	"course":"MG-800 Strategic Management"
+	},
+	{
+	"course":"MG-756 Business Data Mining"
+	},
+	{
+	"course":"MG-757 Marketing Analytics"
+	},
+	{
+	"course":"Graduate Research and Critical Analysis"
+	},
+	{
+	"course":"Ethics and Leadership: An Interdisciplinary Perspective"
+	},
+	{
+	"course":"Managing in the Global Environment"
+	},
+	{
+	"course":"Research and Statistics for Managerial Decision Making"
+	},
+	{
+	"course":"Organizational Behavior and Leadership in the 21st Century"
+	},
+	{
+	"course":"Managerial Economics"
+	},
+	{
+	"course":"Strategic Marketing"
+	},
+	{
+	"course":"Managerial Finance"
+	},
+	{
+	"course":"Financial Statement Analysis"
+	},
+	{
+	"course":"Strategic Management"
+	},
+	{
+	"course":"Graduate Research and Critical Analysis"
+	},
+	{
+	"course":"Ethics and Leadership: An Interdisciplinary Perspective"
+	},
+	{
+	"course":"Managing in the Global Environment"
+	},
+	{
+	"course":"Research and Statistics for Managerial Decision Making"
+	},
+	{
+	"course":"Organizational Behavior and Leadership in the 21st Century"
+	},
+	{
+	"course":"Managerial Economics"
+	},
+	{
+	"course":"Strategic Marketing"
+	},
+	{
+	"course":"Managerial Finance"
+	},
+	{
+	"course":"Financial Statement Analysis"
+	},
+	{
+	"course":"Strategic Management"
+	},
+	{
+	"course":"Software Systems Design"
+	},
+	{
+	"course":"Object Oriented Software"
+	},
+	{
+	"course":"Database Systems"
+	},
+	{
+	"course":"Computer Networks"
+	},
+	{
+	"course":"Managing Projects, Resources, and Risks"
+	},
+	{
+	"course":"Graduate Research and Critical Analysis"
+	},
+	{
+	"course":"Ethics and Leadership: An Interdisciplinary Perspective"
+	},
+	{
+	"course":"Managing in the Global Environment"
+	},
+	{
+	"course":"Research and Statistics for Managerial Decision Making"
+	},
+	{
+	"course":"Organizational Behavior and Leadership in the 21st Century"
+	},
+	{
+	"course":"Managerial Economics"
+	},
+	{
+	"course":"Strategic Marketing"
+	},
+	{
+	"course":"Managerial Finance"
+	},
+	{
+	"course":"Financial Statement Analysis"
+	},
+	{
+	"course":"Strategic Management"
+	},
+	{
+	"course":"BA in Art and Design"
+	},
+	{
+	"course":"BA in Art History and Visual Culture"
+	},
+	{
+	"course":"BA in Game Design"
+	},
+	{
+	"course":"BA in Pre-Art Therapy"
+	},
+	{
+	"course":"BFA in Art and Design"
+	},
+	{
+	"course":"BS in Fashion Business and Entrepreneurship"
+	},
+	{
+	"course":"BA/BS in Accounting"
+	},
+	{
+	"course":"BS in Fashion Business & Entrepreneurship"
+	},
+	{
+	"course":"BA/BS in Finance"
+	},
+	{
+	"course":"BA/BS in Business Administration"
+	},
+	{
+	"course":"BA/BS in Human Resource Management"
+	},
+	{
+	"course":"BA/BS in Marketing"
+	},
+	{
+	"course":"BS in Digital Marketing"
+	},
+	{
+	"course":"BA in Mass Communications (with 2 Areas of Emphasis)"
+	},
+	{
+	"course":"BA in Criminology and Criminal Justice"
+	},
+	{
+	"course":"BS in Health Management"
+	},
+	{
+	"course":"BS in Paramedicine"
+	},
+	{
+	"course":"BA in Interdisciplinary Studies"
+	},
+	{
+	"course":"BS in Information Technology"
+	},
+	{
+	"course":"BS in Cybersecurity"
+	},
+	{
+	"course":"BA in Art and Design"
+	},
+	{
+	"course":"BA/BS in Marketing"
+	},
+	{
+	"course":"BFA in Art and Design"
+	},
+	{
+	"course":"BS in Digital Marketing"
+	},
+	{
+	"course":"BACC 131 Principles of Accounting "
+	},
+	{
+	"course":"BACC 132 Principles of Accounting II "
+	},
+	{
+	"course":"BADM 133 Introduction to Business "
+	},
+	{
+	"course":"BADM 136 Microeconomics"
+	},
+	{
+	"course":"BADM 137 Macroeconomics"
+	},
+	{
+	"course":"BADM 300 Business Statistics"
+	},
+	{
+	"course":"BADM 330 Legal Environment of Business "
+	},
+	{
+	"course":"BADM 331 Principles of Management"
+	},
+	{
+	"course":"BADM 334 Principles of Marketing "
+	},
+	{
+	"course":"BADM 335 Financial Management"
+	},
+	{
+	"course":"BACC 331 Intermediate Accounting I"
+	},
+	{
+	"course":"BACC 332 Intermediate Accounting II"
+	},
+	{
+	"course":"BADM 336 Money, Banking, and Credit"
+	},
+	{
+	"course":"BADM 337 Investments"
+	},
+	{
+	"course":"BADM 452 Advanced Financial Management"
+	},
+	{
+	"course":"BADM 454 Advanced Spreadsheet Analysis"
+	},
+	{
+	"course":"BADM 490 Special Projects in Business and Related Subjects"
+	},
+	{
+	"course":"BADM 430 Advertising"
+	},
+	{
+	"course":"BADM 433 Services Marketing"
+	},
+	{
+	"course":"BADM 435 Consumer Behavior"
+	},
+	{
+	"course":"BADM 455 Market Research"
+	},
+	{
+	"course":"IDC 330 Social Media"
+	},
+	{
+	"course":"BADM 254 Customer Service"
+	},
+	{
+	"course":"BADM 434 Sports Marketing"
+	},
+	{
+	"course":"BADM 451 Marketing Communications and Public Relations "
+	},
+	{
+	"course":"IDC 331 Creative Strategy in Advertising"
+	},
+	{
+	"course":"BADM 490 Special Projects in Business and Related Subjects"
+	},
+	{
+	"course":"Organic Chemistry Laboratory I "
+	},
+	{
+	"course":"Organic Chemistry II"
+	},
+	{
+	"course":"Organic Chemistry Laboratory II "
+	},
+	{
+	"course":"Analytical Chemistry"
+	},
+	{
+	"course":"Analytical Chemistry Laboratory"
+	},
+	{
+	"course":"IDC 235 Introduction to Video Production "
+	},
+	{
+	"course":"JOUR 130 Introduction to Journalism "
+	},
+	{
+	"course":"JOUR 233 Graphic Design"
+	},
+	{
+	"course":"JOUR 336 Writing for the Mass Media "
+	},
+	{
+	"course":"JOUR 339 Media Law"
+	},
+	{
+	"course":"JOUR 416 Journalism Practicum"
+	},
+	{
+	"course":"JOUR 418 Senior Colloquium (1 hour) Plus"
+	},
+	{
+	"course":"JOUR 231 Print and Web Journalism OR JOUR 332 Magazine and Feature Writing"
+	},
+	{
+	"course":"ITSC 330 Prevention and Protection Strategies in Cybersecurity ITSC 331 Ethical Hacking"
+	},
+	{
+	"course":"ITSC 430 Information Security Management"
+	},
+	{
+	"course":"ITSC 431 Legal and Ethics"
+	},
+	{
+	"course":"ITSS 332 Database Administration ITSS 439 Capstone II"
+	},
+	{
+	"course":"ITSI 332 Interconnecting Network Devices ITSI 333 Data Center"
+	},
+	{
+	"course":"ITSI 335 Cloud Computing"
+	},
+	{
+	"course":"ITSI 432 Routing and Switching"
+	},
+	{
+	"course":"ITSI 433 Wireless ITSS 439 Capstone II"
+	},
+	{
+	"course":"ITSM 334 Management Information Systems "
+	},
+	{
+	"course":"BACC 131 Principles of Accounting I"
+	},
+	{
+	"course":"BACC 132 Principles of Accounting II"
+	},
+	{
+	"course":"BADM 136 Microeconomics"
+	},
+	{
+	"course":"BADM 331 Principles of Management BADM 334 Principles of Marketing"
+	},
+	{
+	"course":"ITSS 332 Database Administration"
+	},
+	{
+	"course":"ITSS 333 Video Game Programming"
+	},
+	{
+	"course":"ITSS 334 Web Programming"
+	},
+	{
+	"course":"ITSS 338 Programming of Mobile Devices ITSS 435 Software Engineering"
+	},
+	{
+	"course":"ITSS 439 Capstone II"
+	},
+	{
+	"course":"Introduction to the Army Foundations of Leadership Leadership and Ethics"
+	},
+	{
+	"course":"Army Doctrine and Decision Making Basic Camp Practicum"
+	},
+	{
+	"course":"Training Management and the War Fighting Functions"
+	},
+	{
+	"course":"Applied Leadership in Small Unit Operations American Military History"
+	},
+	{
+	"course":"Advanced Camp Practicum"
+	},
+	{
+	"course":"The Army Officer"
+	},
+	{
+	"course":"Company Grade Leadership"
+	},
+	{
+	"course":"Strategic Appli in Proj Mngmnt (BADM-637-M40) - Full Term"
+	},
+	{
+	"course":"Legal, Ethical, & Social Envn (BADM-537-A01) - First Bi-Term"
+	},
+	{
+	"course":"Planning the Project (BADM-633-M40) - Full Term"
+	},
+	{
+	"course":"Initiating the Project (BADM-634-B03) - Second Bi-Term"
+	},
+	{
+	"course":"Organizational Behavior (BADM-532-03) - Second Bi-Term"
+	},
+	{
+	"course":"Project Management Processes (BADM-623-40) - Full Term"
+	},
+	{
+	"course":"Project Management Processes (BADM-623-A02) - First Bi-Term"
+	},
+	{
+	"course":"Executing the Project (BADM-635-02) - Second Bi-Term"
+	},
+	{
+	"course":"Monitor/Con & Closing the Proj (BADM-636-M50) - Full Term"
+	},
+	{
+	"course":"Managerial Economics (BADM-535-B01) - Second Bi-Term"
+	},
+	{
+	"course":"Managerial Finance (BADM-534-50) - Full Term	Easy"
+	},
+	{
+	"course":"Legal Reg, Compliance, Invest (ISOL-633-50) - Full Term"
+	},
+	{
+	"course":"Operations Security (ISOL-631-50) - Full Term"
+	},
+	{
+	"course":"Security Architecture & Design (ISOL-536-03) - First Bi-Term"
+	},
+	{
+	"course":"SPR_MAIN_Cryptography_24"
+	},
+	{
+	"course":"FALL_IG_Access Control_25"
+	},
+	{
+	"course":"IIG_Bus Cont Plan & Disaste Recovery Plan_24"
+	},
+	{
+	"course":"Application Security_25"
+	},
+	{
+	"course":"Operational Excellence (ITS-631-A02) - First Bi-Term"
+	},
+	{
+	"course":"SPR_MAIN_Info. Security and Risk Mgmt._23"
+	},
+	{
+	"course":"Cloud Computing (ITS-532-M51) - Full Term"
+	},
+	{
+	"course":"Bus Analy for Strateg & Org Pe (BADM-582-B01) - Second Bi-Term"
+	},
+	{
+	"course":"Infer Stats in Decision-Making (DSRT-734-B20) - Second Bi-Term"
+	},
+	{
+	"course":"BUS 300 Foundations of Business"
+	},
+	{
+	"course":"BUS 305 Principles of Accounting"
+	},
+	{
+	"course":"BUS 310 Principles of Microeconomics"
+	},
+	{
+	"course":"BUS 311 Principles of Macroeconomics"
+	},
+	{
+	"course":"BUS 315 Introduction to Business Communication"
+	},
+	{
+	"course":"BUS 317 Introduction to Business Law"
+	},
+	{
+	"course":"BUS 320 Foundations of Statistics"
+	},
+	{
+	"course":"BUS 323 Introduction to Organizational Behavior"
+	},
+	{
+	"course":"BUS 325 Introduction to Leadership"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing"
+	},
+	{
+	"course":"BUS 334 Essentials of Corporate Finance"
+	},
+	{
+	"course":"BUS 340 Introduction to Information Systems"
+	},
+	{
+	"course":"BUS 345 Fundamentals of Decision Making"
+	},
+	{
+	"course":"BUS 349 Foundations in Operations Management"
+	},
+	{
+	"course":"BUS 350 Introduction to Sales Management"
+	},
+	{
+	"course":"BUS 355 Essentials of Entrepreneurship"
+	},
+	{
+	"course":"BUS 367 The Necessities of International Marketing & Culture"
+	},
+	{
+	"course":"BUS 385 Principles of Advertising"
+	},
+	{
+	"course":"BUS 387 Introduction to Business Research"
+	},
+	{
+	"course":"BUS 390 Development of Business Strategy"
+	},
+	{
+	"course":"Communication Requirement (Choose 3 courses) 9 Credit Hours"
+	},
+	{
+	"course":"Mathematics Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Humanities Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Social And Behavioral Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Physical & Biological Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies- Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies Upper Division Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Integrative Studies Capstone Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"BSIT 370 Business Intelligence Tools and Technologies 3 Credit Hours"
+	},
+	{
+	"course":"BSIT 380 Big Data Analytics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 335 Principles of Managerial Accounting 3 Credit Hours"
+	},
+	{
+	"course":"BUS 338 Corporate Financial Decisions 3 Credit Hours"
+	},
+	{
+	"course":"BUS 340 Introduction to Information Systems 3 Credit Hours"
+	},
+	{
+	"course":"BUS 347 Project Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 352 Consumer Behavior 3 Credit Hours"
+	},
+	{
+	"course":"BUS 353 Public Relations 3 Credit Hours"
+	},
+	{
+	"course":"BUS 354 Principles of Branding 3 Credit Hours"
+	},
+	{
+	"course":"BUS 356 Mass Communications and Media 3 Credit Hours"
+	},
+	{
+	"course":"BUS 357 Retail Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 359 Business Ethics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 360 Investment Decisions 3 Credit Hours"
+	},
+	{
+	"course":"BUS 370 E-Commerce 3 Credit Hours"
+	},
+	{
+	"course":"BUS 400 Working Capital Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 401 Financial Institutions and Markets 3 Credit Hours"
+	},
+	{
+	"course":"BUS 402 Corporate Finance Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 403 Financial Derivatives 3 Credit Hours"
+	},
+	{
+	"course":"BUS 404 Investment & Portfolio Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 410 Fundamentals of Human Resource Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 411 Compensation and Reward Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 412 Performance Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 413 Management of Labor Relations 3 Credit Hours"
+	},
+	{
+	"course":"BUS 414 Strategic Human Resources Planning 3 Credit Hours"
+	},
+	{
+	"course":"BUS 420 Applied Marketing Analytics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 421 Customer Relations Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 422 Digital Marketing Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 423 Integrated Marketing Communication 3 Credit Hours"
+	},
+	{
+	"course":"BUS 424 Social Media Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 430 Contemporary Issues in Sports & Exercise Science 3 Credit Hours"
+	},
+	{
+	"course":"BUS 431 Organizational Sports & Strategic Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 432 Leadership Principles for Sports Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 433 Sports Psychology 3 Credit Hours"
+	},
+	{
+	"course":"BUS 434 Sports Facility & Events Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 440 Analytical Approach to Innovation-Driven Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"BUS 441 Entrepreneurial Innovation Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 442 Negotiation Theory and Skills for Entrepreneurs 3 Credit Hours"
+	},
+	{
+	"course":"BUS 443 Feasibility Analysis for Sustainable Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"BUS 444 New Product Development for Entrepreneurs 3 Credit Hours"
+	},
+	{
+	"course":"BUS 400 Working Capital Management"
+	},
+	{
+	"course":"BUS 401 Financial Institutions and Markets"
+	},
+	{
+	"course":"BUS 402 Corporate Financial Decisions"
+	},
+	{
+	"course":"BUS 403 Financial Derivatives"
+	},
+	{
+	"course":"BUS 404 Investment Decisions"
+	},
+	{
+	"course":"BUS 410 Fundamentals of Human Resource Management"
+	},
+	{
+	"course":"BUS 411 Compensation and Reward Management"
+	},
+	{
+	"course":"BUS 412 Performance Management"
+	},
+	{
+	"course":"BUS 413 Management of Labor Relations"
+	},
+	{
+	"course":"BUS 414 Strategic Human Resources Planning"
+	},
+	{
+	"course":"BUS 300 Foundations of Business"
+	},
+	{
+	"course":"BUS 305 Principles of Accounting"
+	},
+	{
+	"course":"BUS 310 Principles of Microeconomics"
+	},
+	{
+	"course":"BUS 311 Principles of Macroeconomics"
+	},
+	{
+	"course":"BUS 315 Introduction to Business Communication"
+	},
+	{
+	"course":"BUS 317 Introduction to Business Law"
+	},
+	{
+	"course":"BUS 320 Foundations of Statistics"
+	},
+	{
+	"course":"BUS 323 Introduction to Organizational Behavior"
+	},
+	{
+	"course":"BUS 325 Introduction to Leadership"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing"
+	},
+	{
+	"course":"BUS 334 Essentials of Corporate Finance"
+	},
+	{
+	"course":"BUS 340 Introduction to Information Systems"
+	},
+	{
+	"course":"BUS 345 Fundamentals of Decision Making"
+	},
+	{
+	"course":"BUS 349 Foundations in Operations Management"
+	},
+	{
+	"course":"BUS 350 Introduction to Sales Management"
+	},
+	{
+	"course":"BUS 355 Essentials of Entrepreneurship"
+	},
+	{
+	"course":"BUS 367 The Necessities of International Marketing & Culture"
+	},
+	{
+	"course":"BUS 385 Principles of Advertising"
+	},
+	{
+	"course":"BUS 387 Introduction to Business Research"
+	},
+	{
+	"course":"BUS 390 Development of Business Strategy "
+	},
+	{
+	"course":"Communication Requirement (Choose 3 courses) 9 Credit Hours"
+	},
+	{
+	"course":"Mathematics Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Humanities Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Social And Behavioral Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Physical & Biological Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies- Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies Upper Division Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Integrative Studies Capstone Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"BSIT 370 Business Intelligence Tools and Technologies 3 Credit Hours"
+	},
+	{
+	"course":"BSIT 380 Big Data Analytics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 335 Principles of Managerial Accounting 3 Credit Hours"
+	},
+	{
+	"course":"BUS 338 Corporate Financial Decisions 3 Credit Hours"
+	},
+	{
+	"course":"BUS 340 Introduction to Information Systems 3 Credit Hours"
+	},
+	{
+	"course":"BUS 347 Project Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 352 Consumer Behavior 3 Credit Hours"
+	},
+	{
+	"course":"US 353 Public Relations 3 Credit Hours"
+	},
+	{
+	"course":"BUS 354 Principles of Branding 3 Credit Hours"
+	},
+	{
+	"course":"BUS 356 Mass Communications and Media 3 Credit Hours"
+	},
+	{
+	"course":"BUS 357 Retail Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 359 Business Ethics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 360 Investment Decisions 3 Credit Hours"
+	},
+	{
+	"course":"BUS 370 E-Commerce 3 Credit Hours"
+	},
+	{
+	"course":"BUS 400 Working Capital Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 401 Financial Institutions and Markets 3 Credit Hours"
+	},
+	{
+	"course":"BUS 402 Corporate Finance Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 403 Financial Derivatives 3 Credit Hours"
+	},
+	{
+	"course":"BUS 404 Investment & Portfolio Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 410 Fundamentals of Human Resource Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 411 Compensation and Reward Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 412 Performance Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 413 Management of Labor Relations 3 Credit Hours"
+	},
+	{
+	"course":"BUS 414 Strategic Human Resources Planning 3 Credit Hours"
+	},
+	{
+	"course":"BUS 420 Applied Marketing Analytics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 421 Customer Relations Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 422 Digital Marketing Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 423 Integrated Marketing Communication 3 Credit Hours"
+	},
+	{
+	"course":"BUS 424 Social Media Strategy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 430 Contemporary Issues in Sports & Exercise Science 3 Credit Hours"
+	},
+	{
+	"course":"BUS 431 Organizational Sports & Strategic Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 432 Leadership Principles for Sports Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 433 Sports Psychology 3 Credit Hours"
+	},
+	{
+	"course":"BUS 434 Sports Facility & Events Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 440 Analytical Approach to Innovation-Driven Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"BUS 441 Entrepreneurial Innovation Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 442 Negotiation Theory and Skills for Entrepreneurs 3 Credit Hours"
+	},
+	{
+	"course":"BUS 443 Feasibility Analysis for Sustainable Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"BUS 444 New Product Development for Entrepreneurs "
+	},
+	{
+	"course":"BUS 400 Working Capital Management"
+	},
+	{
+	"course":"BUS 401 Financial Institutions and Markets"
+	},
+	{
+	"course":"BUS 402 Corporate Financial Decisions"
+	},
+	{
+	"course":"BUS 403 Financial Derivatives"
+	},
+	{
+	"course":"BUS 404 Investment Decisions"
+	},
+	{
+	"course":"BUS 410 Fundamentals of Human Resource Management"
+	},
+	{
+	"course":"BUS 411 Compensation and Reward Management"
+	},
+	{
+	"course":"BUS 412 Performance Management"
+	},
+	{
+	"course":"BUS 413 Management of Labor Relations"
+	},
+	{
+	"course":"BUS 414 Strategic Human Resources Planning"
+	},
+	{
+	"course":"BUS 420 Applied Marketing Analytics"
+	},
+	{
+	"course":"BUS 421 Customer Relations Management"
+	},
+	{
+	"course":"BUS 422 Digital Marketing Strategy"
+	},
+	{
+	"course":"BUS 423 Integrated Marketing Communication"
+	},
+	{
+	"course":"BUS 424 Social Media Strategy"
+	},
+	{
+	"course":"BUS 430 Contemporary Issues in Sports & Exercise Science"
+	},
+	{
+	"course":"BUS 431 Organizational Sports & Strategic Management"
+	},
+	{
+	"course":"BUS 432 Leadership Principles for Sports Management"
+	},
+	{
+	"course":"BUS 433 Sports Psychology"
+	},
+	{
+	"course":"BUS 434 Sports Facility & Events Management"
+	},
+	{
+	"course":"BUS 440 Analytical Approach to Innovation-Driven Entrepreneurship"
+	},
+	{
+	"course":"BUS 441 Entrepreneurial Innovation Management"
+	},
+	{
+	"course":"BUS 442 Negotiation Theory and Skills for Entrepreneurs"
+	},
+	{
+	"course":"BUS 443 Feasibility Analysis for Sustainable Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"BUS 444 New Product Development for Entrepreneurs 3 Credit Hours"
+	},
+	{
+	"course":"WEB 301 Front End Web Development"
+	},
+	{
+	"course":"WEB 302 Back End Web Development"
+	},
+	{
+	"course":"WEB 303 Advanced Full Stack Web Development"
+	},
+	{
+	"course":"BSIT 315 Information Technology Essentials"
+	},
+	{
+	"course":"BUS 300 Foundations of Business"
+	},
+	{
+	"course":"BUS 305 Principles of Accounting"
+	},
+	{
+	"course":"BUS 317 Introduction to Business Law"
+	},
+	{
+	"course":"BUS 334 Essentials of Corporate Finance"
+	},
+	{
+	"course":"BUS 349 Foundations in Operations Management"
+	},
+	{
+	"course":"BUS 315 Introduction to Business Writing"
+	},
+	{
+	"course":"BUS 323 Introduction to Organizational Behavior"
+	},
+	{
+	"course":"BUS 325 Introduction to Leadership"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing"
+	},
+	{
+	"course":"BUS 345 Fundamentals of Decision Making"
+	},
+	{
+	"course":"BUS 355 Essentials of Entrepreneurship"
+	},
+	{
+	"course":"BUS 334 Essentials of Corporate Finance"
+	},
+	{
+	"course":"BUS 400 Working Capital Management"
+	},
+	{
+	"course":"BUS 401 Financial Institutions and Markets"
+	},
+	{
+	"course":"BUS 402 Corporate Finance Strategy"
+	},
+	{
+	"course":"BUS 403 Financial Derivatives"
+	},
+	{
+	"course":"BUS 404 Investment & Portfolio Management"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing"
+	},
+	{
+	"course":"BUS 420 Applied Marketing Analytics"
+	},
+	{
+	"course":"BUS 421 Customer Relationships Management"
+	},
+	{
+	"course":"BUS 422 Digital Marketing Communication"
+	},
+	{
+	"course":"BUS 423 Integrated Marketing Communication"
+	},
+	{
+	"course":"BUS 424 Social Media Strategy"
+	},
+	{
+	"course":"BUS 323 Introduction to Organizational Behavior"
+	},
+	{
+	"course":"BUS 430 Contemporary Issues in Sports & Exercise Science"
+	},
+	{
+	"course":"BUS 431 Organizational Sports & Strategic Management"
+	},
+	{
+	"course":"BUS 432 Leadership Principles for Sports Management"
+	},
+	{
+	"course":"BUS 433 Sports Psychology"
+	},
+	{
+	"course":"BUS 434 Sports Facility & Events Management"
+	},
+	{
+	"course":"BUS 325 Introduction to Leadership"
+	},
+	{
+	"course":"BUS 440 Analytical Approach to Innovation-Driven Entrepreneurship"
+	},
+	{
+	"course":"BUS 441 Entrepreneurial Innovation Management"
+	},
+	{
+	"course":"BUS 442 Negotiation Theory and Skills for Entrepreneurs"
+	},
+	{
+	"course":"BUS 443 Feasibility Analysis for Sustainable Entrepreneurship"
+	},
+	{
+	"course":"BUS 444 New Product Development for Entrepreneurs"
+	},
+	{
+	"course":"BUS 500 Organizational Leadership"
+	},
+	{
+	"course":"BUS 505 Managerial Economics"
+	},
+	{
+	"course":"BUS 510 Marketing Management"
+	},
+	{
+	"course":"BUS 525 Strategic Management in a Globalized Economy"
+	},
+	{
+	"course":"BUS 530 Managing Information Systems & Technology"
+	},
+	{
+	"course":"BUS 535 Managerial Accounting"
+	},
+	{
+	"course":"BUS 540 Organizational Behavior"
+	},
+	{
+	"course":"BUS 550 Financial Management"
+	},
+	{
+	"course":"BUS 557 Applied Methods Capstone1"
+	},
+	{
+	"course":"BUS 600 Managerial Communication"
+	},
+	{
+	"course":"BUS 601 Operations Management"
+	},
+	{
+	"course":"BUS 602 Business Law"
+	},
+	{
+	"course":"BUS 603 Sales Management"
+	},
+	{
+	"course":"BUS 604 Data Analysis & Business Intelligence"
+	},
+	{
+	"course":"BUS 605 Business Research Methodology"
+	},
+	{
+	"course":"BUS 610 Consumer Behavior"
+	},
+	{
+	"course":"BUS 611 Electronic Commerce Marketing Management"
+	},
+	{
+	"course":"BUS 612 Market Research"
+	},
+	{
+	"course":"BUS 652 Entrepreneurial Marketing"
+	},
+	{
+	"course":"BUS 620 International Finance"
+	},
+	{
+	"course":"BUS 621 Entrepreneurial Finance"
+	},
+	{
+	"course":"BUS 622 Financial Statement Analysis"
+	},
+	{
+	"course":"BUS 607 Human Resource Management"
+	},
+	{
+	"course":"BUS 640 Managerial Decision Making"
+	},
+	{
+	"course":"BUS 641 Leading Strategic Change within Organization"
+	},
+	{
+	"course":"BUS 642 Managing Workplace and Conflict Resolution"
+	},
+	{
+	"course":"BUS 621 Entrepreneurial Finance"
+	},
+	{
+	"course":"BUS 651 Entrepreneurship and New Ventures"
+	},
+	{
+	"course":"BUS 652 Entrepreneurial Marketing"
+	},
+	{
+	"course":"BUS 672 e-Business Entrepreneurship"
+	},
+	{
+	"course":"BUS 660 Healthcare Systems"
+	},
+	{
+	"course":"BUS 661 International Health Policy and Management"
+	},
+	{
+	"course":"BUS 662 Healthcare Strategic Management"
+	},
+	{
+	"course":"BUS 611 Electronic Commerce Marketing Management"
+	},
+	{
+	"course":"BUS 670 e-Business Technologies"
+	},
+	{
+	"course":"BUS 672 e-Business Entrepreneurship"
+	},
+	{
+	"course":"BUS 680 Introduction to Supply Chain Management"
+	},
+	{
+	"course":"BUS 681 Purchasing and Inventory Management"
+	},
+	{
+	"course":"BUS 682 Transportation and Logistics Management"
+	},
+	{
+	"course":"BUS 662 Healthcare Strategic Management"
+	},
+	{
+	"course":"BUS 663 Health Informatics"
+	},
+	{
+	"course":"BUS 690 Informatics for Managers"
+	},
+	{
+	"course":"BUS 604 Data Analysis & Business Intelligence"
+	},
+	{
+	"course":"BUS 605 Business Research Methodology"
+	},
+	{
+	"course":"BUS 606 Descriptive Statistical Inference for Business"
+	},
+	{
+	"course":"BUS 611 Electronic Commerce Marketing Management"
+	},
+	{
+	"course":"BUS 613 Business Digital Media/Multimedia"
+	},
+	{
+	"course":"BUS 670 e-Business Technologies"
+	},
+	{
+	"course":"BUS 604 Data Analysis & Business Intelligence"
+	},
+	{
+	"course":"BUS 670 e-Business Technologies"
+	},
+	{
+	"course":"BUS 690 Informatics for Managers"
+	},
+	{
+	"course":"BUS 557 Applied Methods-Information Technology (in place of Core Capstone)"
+	},
+	{
+	"course":"BUS 604 Data Analysis & Business Intelligence"
+	},
+	{
+	"course":"BUS 765 Management of Technological Innovation"
+	},
+	{
+	"course":"BUS 691 Information Technology Project Management I"
+	},
+	{
+	"course":"BUS 692 Information Technology Project Management II (in place of Core Capstone)"
+	},
+	{
+	"course":"WEB 501 Front End Web Development"
+	},
+	{
+	"course":"WEB 502 Back End Web Development"
+	},
+	{
+	"course":"WEB 503 Advanced Full Stack Web Development (in place of 1 core course)"
+	},
+	{
+	"course":"BUS 500 Organizational Leadership 3 Credit Hours"
+	},
+	{
+	"course":"BUS 510 Marketing Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 540 Organizational Behavior 3 Credit Hours"
+	},
+	{
+	"course":"BUS 505 Managerial Economics 3 Credit Hours"
+	},
+	{
+	"course":"BUS 525 Strategic Management in a Globalized Economy 3 Credit Hours"
+	},
+	{
+	"course":"BUS 530 Managing Information Systems and Technology 3 Credit Hours"
+	},
+	{
+	"course":"BUS 535 Managerial Accounting 3 Credit Hours"
+	},
+	{
+	"course":"BUS 550 Financial Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 604 Data Analysis and Business Intelligence 3 Credit Hours"
+	},
+	{
+	"course":"BUS 612 Market Research 3 Credit Hours"
+	},
+	{
+	"course":"BUS 620 International Finance 3 Credit Hours"
+	},
+	{
+	"course":"BUS 630 International Business 3 Credit Hours"
+	},
+	{
+	"course":"BUS 631 Managing Global Diversity 3 Credit Hours"
+	},
+	{
+	"course":"BUS 632 Managing International Human Resources 3 Credit Hours"
+	},
+	{
+	"course":"BUS 641 Leading Strategic Change within Organization 3 Credit Hours"
+	},
+	{
+	"course":"BUS 610 Consumer Behavior 3 Credit Hours"
+	},
+	{
+	"course":"BUS 611 Electronic Commerce Marketing Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 612 Market Research 3 Credit Hours"
+	},
+	{
+	"course":"BUS 652 Entrepreneurial Marketing"
+	},
+	{
+	"course":"BUS 700 Leadership and Creative Solutions Implementation"
+	},
+	{
+	"course":"BUS 705 Management Strategy, Planning and Implementation"
+	},
+	{
+	"course":"BUS 710 Financial Decision Making and Risk Management"
+	},
+	{
+	"course":"BUS 720 Marketing Strategy & Consumer Behavior"
+	},
+	{
+	"course":"RES 711 Research Methods I"
+	},
+	{
+	"course":"RES 721 Doctoral Prospectus"
+	},
+	{
+	"course":"BUS 731 Global Economics & Business Initiatives"
+	},
+	{
+	"course":"BUS 732 Corporate Social Responsibility in Organizational Development"
+	},
+	{
+	"course":"RES 741 Research Methods II"
+	},
+	{
+	"course":"RES 751 Doctoral Literature Review"
+	},
+	{
+	"course":"BUS 731 Global Economics & Business Initiatives 3 Credit Hours "
+	},
+	{
+	"course":"Doctoral Dissertation "
+	},
+	{
+	"course":"BUS 800 Foundations in Analytics for Executives"
+	},
+	{
+	"course":"BUS 801 BI, Analytics, & Decision Support"
+	},
+	{
+	"course":"BUS 802 Time Series & Predictive Analysis for Business"
+	},
+	{
+	"course":"BUS 803 Artificial Intelligence & Prescriptive Analytics"
+	},
+	{
+	"course":"BUS 810 Building Positive Relationships in a Multigenerational Workforce"
+	},
+	{
+	"course":"BUS 811 Emotional Intelligence in Transformational Leadership"
+	},
+	{
+	"course":"BUS 812 Emerging Technology for Effective Leadership"
+	},
+	{
+	"course":"BUS 814 Augmented Global Leadership"
+	},
+	{
+	"course":"BUS 820 Business Intelligence & Information Systems"
+	},
+	{
+	"course":"BUS 821 Management Information Systems & Advanced IT"
+	},
+	{
+	"course":"BUS 822 Information Technology Project & Portfolio Management 3 Credit Hours"
+	},
+	{
+	"course":"BUS 823 Governance of Enterprise IT Initiatives 3 Credit Hours"
+	},
+	{
+	"course":"BUS 830 Enterprise Software Engineering Management"
+	},
+	{
+	"course":"BUS 801 BI, Analytics, & Decision Support"
+	},
+	{
+	"course":"BUS 831 Security in Software Design & Development"
+	},
+	{
+	"course":"BUS 832 Human Computer Interaction (HCI) & Intelligent User Interfaces (IUI)"
+	},
+	{
+	"course":"BUS 300 Foundations of Business"
+	},
+	{
+	"course":"BUS 305 Principles of Accounting"
+	},
+	{
+	"course":"BUS 310 Concepts of Microeconomics"
+	},
+	{
+	"course":"BUS 311 Concepts of Macroeconomics"
+	},
+	{
+	"course":"BUS 325 Introduction to Leadership"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing"
+	},
+	{
+	"course":"BUS 334 Essentials of Corporate Finance"
+	},
+	{
+	"course":"BUS 349 Foundations in Operations Management"
+	},
+	{
+	"course":"BUS 355 The Essentials of Entrepreneurship"
+	},
+	{
+	"course":"BUS 387 Introduction to Business Research"
+	},
+	{
+	"course":"BUS 700 Leadership and Creative Solutions Implementation"
+	},
+	{
+	"course":"BUS 705 Management, Strategy, Planning and Implementation"
+	},
+	{
+	"course":"BUS 710 Financial Risks in Business"
+	},
+	{
+	"course":"BUS 720 Marketing Strategy & Consumer Behavior"
+	},
+	{
+	"course":"BUS 731 Global Economics & Business Initiatives"
+	},
+	{
+	"course":"BUS 732 Corporate Social Responsibility in Organizational Development"
+	},
+	{
+	"course":"BUS 810 Building Positive Relationships in a Multigenerational Workforce"
+	},
+	{
+	"course":"BUS 811 Emotional Intelligence in Transformational Leadership"
+	},
+	{
+	"course":"BUS 812 Emerging Technology for Effective Leadership"
+	},
+	{
+	"course":"BUS 814 Global Leadership"
+	},
+	{
+	"course":"BUS 800 Foundations in Analytics for Executives"
+	},
+	{
+	"course":"BUS 801 BI, Analytics & Decision Support"
+	},
+	{
+	"course":"BUS 802 Time Series & Predictive Analysis for Business"
+	},
+	{
+	"course":"BUS 803 Artificial Intelligence & Prescriptive Analytics"
+	},
+	{
+	"course":"BUS 801 BI, Analytics & Decision Support"
+	},
+	{
+	"course":"BUS 830 Software Engineering Concepts"
+	},
+	{
+	"course":"BUS 831 Security in Software Design & Development"
+	},
+	{
+	"course":"BUS 832 Human-Computer Interaction (HCI) Design"
+	},
+	{
+	"course":"BUS 820 Business Intelligence & Information Systems"
+	},
+	{
+	"course":"BUS 821 Management Information Systems & Advanced IT"
+	},
+	{
+	"course":"BUS 822 Information Technology Project & Portfolio Management"
+	},
+	{
+	"course":"BUS 823 Governance of Enterprise IT Initiatives"
+	},
+	{
+	"course":"BSIT 315 Information Technology Essentials"
+	},
+	{
+	"course":"BSIT 320 Introduction to Statistical Analysis"
+	},
+	{
+	"course":"BSIT 325 Applied Statistics for Optimization"
+	},
+	{
+	"course":"BSIT 330 Discrete Mathematics"
+	},
+	{
+	"course":"BSIT 335 Web Page Design and Development"
+	},
+	{
+	"course":"BSIT 340 Data Programming Concepts"
+	},
+	{
+	"course":"BSIT 345 Data Programming Languages"
+	},
+	{
+	"course":"BSIT 350 Database Design & Management Systems"
+	},
+	{
+	"course":"BSIT 355 Technical Writing and Communication"
+	},
+	{
+	"course":"BSIT 360 Introduction to Data Communication Networks"
+	},
+	{
+	"course":"BSIT 365 Computer Networking Concepts, Administration & Security"
+	},
+	{
+	"course":"BSIT 370 Business Intelligence Tools & Technologies"
+	},
+	{
+	"course":"BSIT 375 Knowledge Discovery and Data Science"
+	},
+	{
+	"course":"BSIT 380 Big Data Analytics"
+	},
+	{
+	"course":"BSIT 385 Data Visualization"
+	},
+	{
+	"course":"Capstone Course Requirement 3 Credit Hours"
+	},
+	{
+	"course":"BSIT 390 Capstone Project 3 Credit Hours"
+	},
+	{
+	"course":"INT 301 Undergraduate Internship* 1 Credit Hour"
+	},
+	{
+	"course":"Elective Requirements"
+	},
+	{
+	"course":"BSIT 327 Computer Hardware Fundamentals"
+	},
+	{
+	"course":"BSIT 328 System Analysis and Design"
+	},
+	{
+	"course":"BSIT 329 Artificial Intelligence"
+	},
+	{
+	"course":"BSIT 332 Software Quality Assurance"
+	},
+	{
+	"course":"BSIT 333 Mobile Computing and Programming"
+	},
+	{
+	"course":"BSIT 341 Calculus I"
+	},
+	{
+	"course":"BSIT 342 Linear Algebra for Data Science"
+	},
+	{
+	"course":"BSIT 343 Advanced Programming using Python/Java"
+	},
+	{
+	"course":"BSIT 344 Advanced Web Programming and Application Development"
+	},
+	{
+	"course":"BSIT 348 Cloud Computing"
+	},
+	{
+	"course":"BSCS 315 Computer Science Essentials"
+	},
+	{
+	"course":"BSCS 320 Foundations of Applied Statistical Analysis"
+	},
+	{
+	"course":"BSCS 327 Computer Hardware Fundamentals"
+	},
+	{
+	"course":"BSCS 329 Artificial Intelligence & machine Learning"
+	},
+	{
+	"course":"BSCS 330 Discrete Mathematics"
+	},
+	{
+	"course":"BSCS 332 Software Quality Assurance"
+	},
+	{
+	"course":"BSCS 333 Mobile Computing and Programming"
+	},
+	{
+	"course":"BSCS 335 Web Page Design and Development"
+	},
+	{
+	"course":"BSCS 341A Calculus I for Computer Science"
+	},
+	{
+	"course":"BSCS 341B Calculus II for Engineers and Scientists"
+	},
+	{
+	"course":"BSCS 342 Linear and Matrix Algebra"
+	},
+	{
+	"course":"BSCS 343 Advanced Programming using Python/Java"
+	},
+	{
+	"course":"BSCS 344 Advanced Web Programming and Application Development"
+	},
+	{
+	"course":"BSCS 345 Object-Oriented Programming (BSIT 345 Data Prog. Languages)"
+	},
+	{
+	"course":"BSCS 348 Cloud Computing"
+	},
+	{
+	"course":"BSCS 350 Database Design & Management Systems"
+	},
+	{
+	"course":"BSCS 356 Software Engineering, Technical Writing, and Communication"
+	},
+	{
+	"course":"BSCS 365 Computer Networking Concepts, Administration, & Security"
+	},
+	{
+	"course":"BSCS 371 Data Structures & Algorithms Design"
+	},
+	{
+	"course":"BSCS 380 Big Data Analytics"
+	},
+	{
+	"course":"BUS 400 Foundations of Business 3 Credit Hours"
+	},
+	{
+	"course":"BUS 330 Principles of Marketing OR BUS 355 Essentials of Entrepreneurship 3 Credit Hours"
+	},
+	{
+	"course":"Capstone Course Requirements 6 Credit Hours"
+	},
+	{
+	"course":"BSCS 390A Capstone Project – Part 1 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 390B Capstone Project – Part 2 3 Credit Hours"
+	},
+	{
+	"course":" INT 301 Undergraduate Internship* 1 Credit Hour"
+	},
+	{
+	"course":"BSCS 325 Applied Statistics for Optimization 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 328 System Analysis and Design 3 Credit Hours BSCS 357 Data Visualization 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 370 Business Intelligence Tools & Technologies 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 372 Introduction to Game Design 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 381 Elective for Full-Stack Web Development 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 382 Elective for Data Science 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 383 Elective for Cyber-Security 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 384 Elective for Software Engineering 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 385 Elective for Project Management Institute (PMI) 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 386 Elective for Python Institute 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 387 Cyber-Security Technology Advanced Topics 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 388 Cryptography Essentials & Techniques 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 389 Data Science Advanced Topics 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 391 Python Data Science Stack 3 Credit Hours"
+	},
+	{
+	"course":"BSCS 400 Fundamentals of Computer Concepts & Networks"
+	},
+	{
+	"course":"BSCS 405 Introduction to Cybersecurity & Cryptography"
+	},
+	{
+	"course":"BSCS 410 Security Policies & Procedures"
+	},
+	{
+	"course":"BSCS 415 Cyber Defense"
+	},
+	{
+	"course":"BSCS 420 Cyber Threats, Anonymity, & Social Engineering Attacks"
+	},
+	{
+	"course":"BSCS 425 Digital Computer Forensics & Incidence Response"
+	},
+	{
+	"course":"BSIT 315 Information Technology"
+	},
+	{
+	"course":"BSIT 348 Cloud Computing"
+	},
+	{
+	"course":"BSIT 350 Database Design and Management Systems"
+	},
+	{
+	"course":"BSIT 365 Computer Networking Concepts, Administration and Security"
+	},
+	{
+	"course":"BSIT 370 Business Intelligence Tools and Technologies"
+	},
+	{
+	"course":"BSIT 380 Big Data Analytics"
+	},
+	{
+	"course":"MSCS 600 Software Quality Metrics"
+	},
+	{
+	"course":"MSCS 601 Principles of Data Management"
+	},
+	{
+	"course":"MSCS 602 Modern Operating Systems"
+	},
+	{
+	"course":"MSCS 603 Computer Systems Architecture"
+	},
+	{
+	"course":"MSCS 604 Software Engineering Concepts"
+	},
+	{
+	"course":"MSCS 605 Java Web Applications"
+	},
+	{
+	"course":"MSCS 606 Web Services Development & XML"
+	},
+	{
+	"course":"MSCS 610 .NET Programming"
+	},
+	{
+	"course":"MSCS 612 Software Test Automation & Tools"
+	},
+	{
+	"course":"MSCS 624 Telecommunications & Networking"
+	},
+	{
+	"course":"MSCS 690 Big Data Analytics"
+	},
+	{
+	"course":"MSCS 693 Applied Computer Science Capstone Project"
+	},
+	{
+	"course":"MSIT 600 Advanced Information Technology"
+	},
+	{
+	"course":"MSIT 601 Principles of Data Management"
+	},
+	{
+	"course":"MSIT 602 Modern Operating Systems"
+	},
+	{
+	"course":"MSIT 603 Computer Systems Architecture"
+	},
+	{
+	"course":"MSIT 605 Systems Analysis Design"
+	},
+	{
+	"course":"MSIT 606 Management of Information Security"
+	},
+	{
+	"course":"MSIT 607 Advanced Database Design & Management"
+	},
+	{
+	"course":"MSIT 608 Information Technology Project Management"
+	},
+	{
+	"course":"MSIT 611 Wireless & Mobile Systems"
+	},
+	{
+	"course":"MSIT 624 Telecommunications & Networking"
+	},
+	{
+	"course":"MSIT 690 Big Data Analytics"
+	},
+	{
+	"course":"MSIT 693 Applied Information Technology Capstone Project"
+	},
+	{
+	"course":"MSEM 525 Strategic Management in a Globalized Economy"
+	},
+	{
+	"course":"MSEM 530 Managing Information Systems & Technology"
+	},
+	{
+	"course":"MSEM 600 Principles of Engineering Management"
+	},
+	{
+	"course":"MSEM 601 Operations Management"
+	},
+	{
+	"course":"MSEM 605 Product & Design Process Development"
+	},
+	{
+	"course":"MSEM 606 Management of Information Security"
+	},
+	{
+	"course":"MSEM 608 Information Technology Project Management"
+	},
+	{
+	"course":"MSEM 615 Enterprise Resource Planning Systems"
+	},
+	{
+	"course":"MSEM 617 E-Business Technology & Management"
+	},
+	{
+	"course":"MSEM 641 Leading Strategic Change within Organizations"
+	},
+	{
+	"course":"MSEM 690 Big Data Analytics"
+	},
+	{
+	"course":"MSEM 694 Applied Engineering Management Capstone Project"
+	},
+	{
+	"course":"CS 510 Cybersecurity Essentials"
+	},
+	{
+	"course":"CS 520 Fundamentals of Cryptography"
+	},
+	{
+	"course":"CS 530 Digital Computer Forensics"
+	},
+	{
+	"course":"CS540 Digital Threats & Detention"
+	},
+	{
+	"course":"CS550 Information Security Management 3 Credit Hours"
+	},
+	{
+	"course":"CS560 Cybersecurity in Emerging Technologies"
+	},
+	{
+	"course":"DAT 600 Principles of Data Management"
+	},
+	{
+	"course":"DAT 601 Data Mining for Business"
+	},
+	{
+	"course":"DAT 602 Advanced Database Design & Management"
+	},
+	{
+	"course":"DAT 603 Big Data Advanced Topics"
+	},
+	{
+	"course":"DAT 604 Artificial Intelligence and Prescriptive Analytics"
+	},
+	{
+	"course":"DAT 605 Microsoft Certified Data Analyst Associate"
+	},
+	{
+	"course":"EDU 301 Introduction to Education"
+	},
+	{
+	"course":"EDU 305 Education Psychology"
+	},
+	{
+	"course":"EDU 311 Unit Design"
+	},
+	{
+	"course":"EDU 315 Educational and Social Justice"
+	},
+	{
+	"course":"EDU 320 Home, School, and Community Collaboration"
+	},
+	{
+	"course":"EDU 325 Art of Effective Teaching"
+	},
+	{
+	"course":"EDU 330 Building the Foundations of Literacy"
+	},
+	{
+	"course":"EDU 341 Child and Adolescent Development"
+	},
+	{
+	"course":"EDU 350 Assessment of the Learning Process"
+	},
+	{
+	"course":"EDU 355 Exceptional Students"
+	},
+	{
+	"course":"EDU 360 Curriculum and Instruction"
+	},
+	{
+	"course":"EDU 361 Information Literacy, Research, and Analysis"
+	},
+	{
+	"course":"EDU 365 Multicultural Education"
+	},
+	{
+	"course":"EDU 370 Teaching English Language Learners"
+	},
+	{
+	"course":"EDU 371 Strategies for Online Learning"
+	},
+	{
+	"course":"EDU 375 Teaching with Technology"
+	},
+	{
+	"course":"EDU 400 Differentiating and Scaffolding Instruction"
+	},
+	{
+	"course":"EDU 401 Educational Leadership"
+	},
+	{
+	"course":"EDU 410 Portfolio Development"
+	},
+	{
+	"course":"EDU 450 Directed Field Experience"
+	},
+	{
+	"course":"EDU 422 Best Practices"
+	},
+	{
+	"course":"EDU 424 Adaptive Technology for Differentiated Instruction"
+	},
+	{
+	"course":"EDU 426 Capstone Practicum"
+	},
+	{
+	"course":"EDU 432 Lesson Planning and Classroom Management"
+	},
+	{
+	"course":"EDU 434 Teaching Receptive Skills - Listening & Reading"
+	},
+	{
+	"course":"EDU 436 Capstone Practicum"
+	},
+	{
+	"course":"EDU 442 Home, School, Community Collaboration"
+	},
+	{
+	"course":"EDU 444 Introduction to Curriculum"
+	},
+	{
+	"course":"EDU 451 ECE Administration I - Programs"
+	},
+	{
+	"course":"EDU 421 Foundations of Educational Technology"
+	},
+	{
+	"course":"EDU 423 Assessment"
+	},
+	{
+	"course":"EDU 425 Blended Learning"
+	},
+	{
+	"course":"EDU 431 Foundations of TESOL and Second Language Acquisition"
+	},
+	{
+	"course":"EDU 433 Teaching Vocabulary and Grammar"
+	},
+	{
+	"course":"EDU 435 Teaching Productive Skills: Speaking, Pronunciation, and Writing"
+	},
+	{
+	"course":"EDU 441 Child Growth and Development"
+	},
+	{
+	"course":"EDU 443 Principles and Practices of ECE"
+	},
+	{
+	"course":"EDU 445 Practicum"
+	},
+	{
+	"course":"EDU 452 ECE Administration II – Leadership and Supervision"
+	},
+	{
+	"course":"EDU 453 Adult Supervision and Mentoring"
+	},
+	{
+	"course":"EDU 455 Practicum"
+	},
+	{
+	"course":"Communication Requirement (Choose 3 courses)"
+	},
+	{
+	"course":"Mathematics Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Humanities Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Physical & Biological Sciences Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Open Integrative Studies Upper Division Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Social And Behavioral Sciences Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Open Integrative Studies- Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Integrative Studies Capstone Requirement (Choose 1 course)"
+	},
+	{
+	"course":"Mathematics Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Humanities Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Social And Behavioral Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Physical & Biological Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies- Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies Upper Division Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Integrative Studies Capstone Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Internship Requirement 1 Credit Hour (min.)"
+	},
+	{
+	"course":"Communication Requirement (Choose 3 courses) 9 Credit Hours"
+	},
+	{
+	"course":"Mathematics Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Humanities Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Social And Behavioral Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Physical & Biological Sciences Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies- Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Open Integrative Studies Upper Division Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Integrative Studies Capstone Requirement (Choose 1 course) 3 Credit Hours"
+	},
+	{
+	"course":"Internship Requirement 1 Credit Hour (min.)"
+	},
+	{
+	"course":"INT 301 Undergraduate Internship*"
+	}
 ]
